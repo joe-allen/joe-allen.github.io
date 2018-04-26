@@ -25,8 +25,8 @@ THINGS TO REMEMBER:
 	deadlineText: "Sorry, time's up!",    // Text to show user after timer ends
 {% endhighlight %}
 
-Check out the [Countdown Recur Timer][jekyll] in action.
-[Countdown Recur Timer repository][jekyll-gh].
+Check out the [Countdown Recur Timer][action] in action.
+[Countdown Recur Timer repository][gh].
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+[action]:       https://joe-allen.github.io/projects/countdown-recur/
+[gh]:   				https://github.com/joe-allen/joe-allen.github.io
