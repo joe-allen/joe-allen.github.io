@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Jumprope Design Blog
+title: Joe Allen
 email: info@jumprope.design
-description: A simple and awesome blog for Jumprope Design.
+description: A simple and awesome area for code updates and small projects.
 url: https://joe-allen.github.io/
 
 
@@ -14,7 +14,7 @@ url: https://joe-allen.github.io/
 # Jekyll configuration
 ####################################
 #
-timezone:          Chicago
+timezone:          Toronto
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: Jumprope Design
+  name: Joe Allen
   avatar: jumprope-logo.png
   job: "Web Application Design and Development."
   bio: "Jumprope Design is a boutique web development company that designs and develops simple, modern websites and web applications."
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: jumprope-design
+  github: joe-allen
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
