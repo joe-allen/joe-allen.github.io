@@ -42,9 +42,11 @@
       $('#countdown_timer').countdown_timer({
         debug: false,                         // This stops the time in order to update the css
         color: '#87e47d',                     // Color of timer, defaults to green
-        endDay: 'Friday',                     // End day for timer, defaults to "Sunday"
-        endTime: '05:00:01 pm',               // End time for timer, defaults to "11:59:59 pm", Format like '05:05:20 pm'
+        endDay: 'Sunday',                     // End day for timer, defaults to "Sunday"
+        endTime: '11:59:59 pm',               // End time for timer, defaults to "11:59:59 pm", Format like '05:05:20 pm'
         deadlineText: "Are you still working?!",    // Text to show user after timer ends
+        weeksToRecur: 1,
+        startDate: '04/25/2018'
       });
     </script>
   </body>
